@@ -1,8 +1,8 @@
 Postman Kata Academy
 
 1.Регистрируемся
-![Registration](Registration.jpeg)
+![Registration](Registration.jpg)
 2.Логинимся
-![Login](Login.jpeg)
+![Login](Login.jpg)
 3.Получаем данные
-![Data](Data.jpeg)
+![Data](Data.jpg)
